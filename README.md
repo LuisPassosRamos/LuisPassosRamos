@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello! I'm a Full-Stack Developer 👋
 
-<!--
-**LuisPassosRamos/LuisPassosRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently studying **Análise e Desenvolvimento de Sistemas (ADS)** at the **Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA)**. My passion lies in building robust applications and learning new technologies.
 
-Here are some ideas to get you started:
+### 💻 What I'm Working On:
+- 🌱 I'm deeply interested in **ReactJS** and **Spring Boot**.
+- 🔨 Currently working on my first personal project, which is pinned on my GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills I'm Developing:
+- **Languages & Frameworks**: Java, JavaScript, HTML, CSS.
+- **Tools**: Figma, Docker, GitHub.
+- **Design & UI**: Exploring design principles and wireframing with Figma.
+
+### 💬 Let's Connect!
+Feel free to check out my [LinkedIn](https://www.linkedin.com/in/luis-guilherme-passos-ramos/) or other social media links available in my profile.
+
+Looking forward to collaborating and growing in this amazing journey!
