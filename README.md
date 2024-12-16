@@ -15,3 +15,5 @@ I’m currently studying **Análise e Desenvolvimento de Sistemas (ADS)** at the
 Feel free to check out my [LinkedIn](https://www.linkedin.com/in/luis-guilherme-passos-ramos/) or other social media links available in my profile.
 
 Looking forward to collaborating and growing in this amazing journey!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPassosRamos)](https://github.com/anuraghazra/github-readme-stats)
