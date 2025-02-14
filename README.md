@@ -16,4 +16,4 @@ Feel free to check out my [LinkedIn](https://www.linkedin.com/in/luis-guilherme-
 
 Looking forward to collaborating and growing in this amazing journey!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPassosRamos)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisPassosRamos&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
