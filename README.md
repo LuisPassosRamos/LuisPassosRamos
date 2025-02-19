@@ -1,6 +1,6 @@
 # Hello! I'm a Full-Stack Developer 👋
 
-I’m currently studying **Análise e Desenvolvimento de Sistemas (ADS)** at the **Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA)**. My passion lies in building robust applications and learning new technologies.
+I’m currently studying **Systems Analysis and Development** at the **Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA)**. My passion lies in building robust applications and learning new technologies.
 
 ### 💻 What I'm Working On:
 - 🌱 I'm deeply interested in **ReactJS** and **Spring Boot**.
