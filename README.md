@@ -7,7 +7,7 @@ I’m currently studying **Análise e Desenvolvimento de Sistemas (ADS)** at the
 - 🔨 Currently working on my first personal project, which is pinned on my GitHub profile.
 
 ### 🔧 Skills I'm Developing:
-- **Languages & Frameworks**: Java, JavaScript, HTML, CSS.
+- **Languages & Frameworks**: Java, JavaScript, HTML, CSS, Spring Boot.
 - **Tools**: Figma, Docker, GitHub.
 - **Design & UI**: Exploring design principles and wireframing with Figma.
 
