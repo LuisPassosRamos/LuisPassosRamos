@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
-  <title id="title">Luis Ramos — desenvolvedor de software</title>
-  <desc id="desc">Backend, automações e IA aplicada. Um circuito âmbar conecta entradas, uma porta lógica e uma saída sobre fundo escuro.</desc>
+  <title id="title">Luis Ramos — desenvolvedor Full Stack</title>
+  <desc id="desc">Aplicações web, automações e IA aplicada. Um circuito âmbar conecta entradas, uma porta lógica e uma saída sobre fundo escuro.</desc>
   <defs>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#28313d"/></pattern>
     <linearGradient id="bg" x2="1" y2="0.5"><stop stop-color="#111821"/><stop offset="1" stop-color="#171e29"/></linearGradient>
@@ -9,9 +9,9 @@
   <rect width="1280" height="340" rx="18" fill="url(#grid)"/>
   <rect x="48" y="54" width="36" height="4" rx="2" fill="#f5b448"/>
   <g font-family="Segoe UI,Arial,sans-serif">
-    <text x="48" y="97" fill="#b8c1cc" font-size="17" letter-spacing="3">DESENVOLVEDOR DE SOFTWARE</text>
+    <text x="48" y="97" fill="#b8c1cc" font-size="17" letter-spacing="3">DESENVOLVEDOR FULL STACK</text>
     <text x="44" y="174" fill="#f4f6f8" font-size="70" font-weight="700" letter-spacing="-2">Luis Ramos</text>
-    <text x="48" y="220" fill="#f5b448" font-size="27" font-weight="500">Backend, automações &amp; IA aplicada</text>
+    <text x="48" y="220" fill="#f5b448" font-size="27" font-weight="500">Aplicações web, automações &amp; IA aplicada</text>
     <text x="48" y="282" fill="#a7b2bf" font-size="17">Problemas reais. Sistemas em uso. Aprendizado em cada projeto.</text>
   </g>
   <g fill="none" stroke-linecap="round" stroke-linejoin="round">
