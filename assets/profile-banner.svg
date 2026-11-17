@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Luis Ramos — desenvolvedor de software</title>
+  <desc id="desc">Backend, automações e IA aplicada. Um circuito âmbar conecta entradas, uma porta lógica e uma saída sobre fundo escuro.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#28313d"/></pattern>
+    <linearGradient id="bg" x2="1" y2="0.5"><stop stop-color="#111821"/><stop offset="1" stop-color="#171e29"/></linearGradient>
+  </defs>
+  <rect width="1280" height="340" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="340" rx="18" fill="url(#grid)"/>
+  <rect x="48" y="54" width="36" height="4" rx="2" fill="#f5b448"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="48" y="97" fill="#b8c1cc" font-size="17" letter-spacing="3">DESENVOLVEDOR DE SOFTWARE</text>
+    <text x="44" y="174" fill="#f4f6f8" font-size="70" font-weight="700" letter-spacing="-2">Luis Ramos</text>
+    <text x="48" y="220" fill="#f5b448" font-size="27" font-weight="500">Backend, automações &amp; IA aplicada</text>
+    <text x="48" y="282" fill="#a7b2bf" font-size="17">Problemas reais. Sistemas em uso. Aprendizado em cada projeto.</text>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M813 116h70v28h57M813 224h70v-28h57" stroke="#f5b448" stroke-width="4"/>
+    <path d="M1002 170h103" stroke="#f5b448" stroke-width="4"/>
+    <path d="M935 123h29a47 47 0 0 1 0 94h-29z" fill="#242c37" stroke="#f5b448" stroke-width="3"/>
+    <rect x="783" y="102" width="30" height="28" rx="7" fill="#302a20" stroke="#f5b448" stroke-width="2"/>
+    <rect x="783" y="210" width="30" height="28" rx="7" fill="#302a20" stroke="#f5b448" stroke-width="2"/>
+    <circle cx="1125" cy="170" r="21" fill="#f5b448" stroke="#ffd78e" stroke-width="3"/>
+    <circle cx="1125" cy="170" r="35" stroke="#f5b448" stroke-opacity="0.18" stroke-width="2"/>
+    <path d="M1125 119v-9M1125 221v9M1176 170h9M1080 125l-6-6M1169 125l7-7M1169 215l7 7M1080 215l-6 6" stroke="#f5b448" stroke-opacity="0.55" stroke-width="2"/>
+    <path d="M848 70h172v20M848 270h172v-20" stroke="#3b4553" stroke-width="2"/>
+    <circle cx="848" cy="70" r="4" fill="#3b4553" stroke="none"/>
+    <circle cx="848" cy="270" r="4" fill="#3b4553" stroke="none"/>
+  </g>
+  <g font-family="Consolas,monospace" font-size="16" text-anchor="middle" fill="#f5b448"><text x="798" y="122">1</text><text x="798" y="230">1</text><text x="963" y="176">&amp;</text></g>
+</svg>
