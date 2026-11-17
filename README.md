@@ -1,5 +1,5 @@
 <a href="https://luispassosramos.github.io/LuisPortifolio/">
-  <img src="assets/profile-banner.svg" alt="Luis Ramos — desenvolvedor de software. Backend, automações e IA aplicada." width="100%" />
+  <img src="assets/profile-banner.svg" alt="Luis Ramos — desenvolvedor Full Stack. Aplicações web, automações e IA aplicada." width="100%" />
 </a>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ### Olá, eu sou o Luis 👋
 
-Sou **Luis Guilherme Passos Ramos**, desenvolvedor de software e estudante de **Análise e Desenvolvimento de Sistemas no IFBA**, campus Santo Antônio de Jesus, Bahia. Meu foco é **backend com Java e Python, APIs e automações**, com interesse em **IA aplicada a problemas de negócio**.
+Sou **Luis Guilherme Passos Ramos**, desenvolvedor **Full Stack** e estudante de **Análise e Desenvolvimento de Sistemas no IFBA**, campus Santo Antônio de Jesus, Bahia. Meu foco é construir **aplicações web completas, automações e soluções com IA aplicada**, conectando interface, regras de negócio, banco de dados e APIs. Trabalho com **TypeScript, React e Next.js** em aplicações web e com **Python** em APIs e automações.
 
 Gosto de partir de uma necessidade concreta e construir o caminho até a solução: regras de negócio, banco de dados, integrações e uma interface que ajude quem vai usar.
 
@@ -25,6 +25,7 @@ Gosto de partir de uma necessidade concreta e construir o caminho até a soluç�
 | Projeto | O que você encontra | Onde conferir |
 | :--- | :--- | :--- |
 | **Olympus 3D** · produto em uso | Gestão de pedidos, custos, caixa e estoque; aplicação utilizada por cinco gestores em novembro de 2026. Código privado. | [Case e decisões técnicas](https://luispassosramos.github.io/LuisPortifolio/projetos/olympus-3d/) |
+| **Printables / Olympus 3D** · catálogo web | Interface em React e TypeScript, catálogo público integrado ao Google Sheets e contato pelo WhatsApp. | [Código](https://github.com/LuisPassosRamos/Printables) · [Catálogo](https://luispassosramos.github.io/Printables/) |
 | **LogicGates** · TCC em desenvolvimento | Java, avaliação de circuitos, testes automatizados e integração com Hytale. A etapa Classroom está planejada. | [Código](https://github.com/LuisPassosRamos/LogicGatesMod) · [Case](https://luispassosramos.github.io/LuisPortifolio/projetos/logicgates/) |
 | **IoT Management System** · acadêmico em equipe | Backend com FastAPI e SQLAlchemy, reservas, controle de acesso, auditoria e WebSocket; dispositivos simulados. Minha participação se concentra no backend. | [Código](https://github.com/LuisPassosRamos/IoT-Management-System) · [Case](https://luispassosramos.github.io/LuisPortifolio/projetos/iot-management-system/) |
 | **SISD** · projeto acadêmico | Simulação distribuída de sensores climáticos com TCP, gRPC, multicast UDP, eleição de coordenador e recuperação de falhas. | [Código](https://github.com/LuisPassosRamos/TrabalhoFinalSD) · [Case](https://luispassosramos.github.io/LuisPortifolio/projetos/sisd/) |
@@ -36,16 +37,17 @@ O [gerador de provas](https://luispassosramos.github.io/LuisPortifolio/projetos/
 
 | Frente | Tecnologias e experiência |
 | :--- | :--- |
-| **Backend** | **Python · FastAPI · SQLAlchemy** em projetos acadêmicos; **Java** no LogicGates e experiência acadêmica com **Spring Boot**. |
-| **Aplicações web** | **TypeScript · Next.js · React · Turso/libSQL** no Olympus 3D; **Astro** neste portfólio. |
+| **Desenvolvimento Full Stack** | **TypeScript · JavaScript · React · Next.js · Turso/libSQL** no Olympus 3D; **Astro** no portfólio. Da interface às regras e à persistência. |
+| **Python, APIs e automações** | **Python · FastAPI · SQLAlchemy · APIs REST**, com experiência em integrações, serviços e dispositivos simulados. |
+| **Automação e IA aplicada** | Integração da **API do Gemini**, organização de informações e edição de conteúdo, combinadas com fluxos baseados em regras. |
 | **Integração e tempo real** | **APIs REST · WebSocket · MQTT · gRPC · sockets TCP/UDP**, conforme o projeto. |
 | **Qualidade e entrega** | **Git · Docker · GitHub Actions · JUnit · pytest · Vitest**, com testes e documentação nos projetos principais. |
-| **Automação e IA aplicada** | Integração da **API do Gemini**, organização de informações e edição de conteúdo, combinadas com fluxos baseados em regras. |
+| **Outras experiências** | **Java** no LogicGates e experiência acadêmica com **Spring Boot**. |
 
 ### Além do código
 
 Impressão 3D, jogos e modding fazem parte do que gosto de criar. Também produzo conteúdo sobre Hytale no canal **SISSO**. Me interessa transformar ideias em algo que outras pessoas consigam usar, explorar e aprender.
 
-**Estou disponível para oportunidades em desenvolvimento backend, automações e IA aplicada, além de projetos sob demanda.**
+**Estou disponível para oportunidades em desenvolvimento Full Stack, automações e IA aplicada, além de projetos sob demanda.**
 
 → [Conheça os cases no portfólio](https://luispassosramos.github.io/LuisPortifolio/) · [Entre em contato pelo LinkedIn](https://www.linkedin.com/in/luis-guilherme-passos-ramos/)
