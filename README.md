@@ -18,7 +18,7 @@ Gosto de partir de uma necessidade concreta e construir o caminho até a soluç�
 
 - **Software para uma operação real.** Sou cofundador da **Olympus 3D** e desenvolvo o sistema de gestão e caixa usado pela equipe: custos de impressão, pedidos, vendas, estoque e produção. Uso Next.js, React, TypeScript e Turso/libSQL, com integração opcional à API do Gemini e alternativas baseadas em regras.
 - **Jogos como ferramenta de ensino.** Meu TCC é o **LogicGates**, um mod educacional de Hytale em Java. Alavancas, cabos, lâmpadas e sete portas lógicas permitem montar circuitos e observar o resultado dentro do jogo.
-- **Automação no dia a dia.** No estágio de TI, atuo com suporte, manutenção, rede e automações administrativas, incluindo um fluxo que transforma questões sem formatação em provas no padrão da escola.
+- **Automação no dia a dia.** No estágio de TI, desenvolvi o **Prova Pronta** para importar provas, permitir a conferência com o original e preparar o PDF e o Word no padrão da escola.
 
 ### Projetos para começar
 
@@ -27,11 +27,10 @@ Gosto de partir de uma necessidade concreta e construir o caminho até a soluç�
 | **Olympus 3D** · produto em uso | Gestão de pedidos, custos, caixa e estoque; aplicação utilizada por cinco gestores em novembro de 2026. Código privado. | [Case e decisões técnicas](https://luispassosramos.github.io/LuisPortifolio/projetos/olympus-3d/) |
 | **Printables / Olympus 3D** · catálogo web | Interface em React e TypeScript, catálogo público integrado ao Google Sheets e contato pelo WhatsApp. | [Código](https://github.com/LuisPassosRamos/Printables) · [Catálogo](https://luispassosramos.github.io/Printables/) |
 | **LogicGates** · TCC em desenvolvimento | Java, avaliação de circuitos, testes automatizados e integração com Hytale. A etapa Classroom está planejada. | [Código](https://github.com/LuisPassosRamos/LogicGatesMod) · [Case](https://luispassosramos.github.io/LuisPortifolio/projetos/logicgates/) |
-| **IoT Management System** · acadêmico em equipe | Backend com FastAPI e SQLAlchemy, reservas, controle de acesso, auditoria e WebSocket; dispositivos simulados. Minha participação se concentra no backend. | [Código](https://github.com/LuisPassosRamos/IoT-Management-System) · [Case](https://luispassosramos.github.io/LuisPortifolio/projetos/iot-management-system/) |
+| **Prova Pronta** · automação escolar | FastAPI, React e OCR. Importa Word, PDF e fotos, estrutura as questões para conferência e prepara os arquivos para impressão. | [Código e amostras](https://github.com/LuisPassosRamos/testMaker) · [Case](https://luispassosramos.github.io/LuisPortifolio/projetos/gerador-de-provas/) |
+| **IoT Management System** · acadêmico em equipe | Backend com FastAPI e SQLAlchemy, reservas, controle de acesso, auditoria e dispositivos simulados. Minha participação se concentra no backend. | [Código](https://github.com/LuisPassosRamos/IoT-Management-System) · [Case](https://luispassosramos.github.io/LuisPortifolio/projetos/iot-management-system/) |
 | **SISD** · projeto acadêmico | Simulação distribuída de sensores climáticos com TCP, gRPC, multicast UDP, eleição de coordenador e recuperação de falhas. | [Código](https://github.com/LuisPassosRamos/TrabalhoFinalSD) · [Case](https://luispassosramos.github.io/LuisPortifolio/projetos/sisd/) |
 | **IoT Ecosystem** · acadêmico em equipe | Arquitetura Edge–Fog–Cloud com sensores simulados, MQTT, Node-RED, FastAPI e Docker. Participação concentrada no backend. | [Código e arquitetura](https://github.com/LuisPassosRamos/IoT-Ecosystem) |
-
-O [gerador de provas](https://luispassosramos.github.io/LuisPortifolio/projetos/gerador-de-provas/) também está documentado no portfólio, com o fluxo da automação e seus limites.
 
 ### Tecnologias que uso, com contexto
 
